@@ -1,0 +1,14 @@
+# numpy==1.23.5
+numpy
+pandas
+scikit-learn
+# xgboost
+# catboost
+simpletransformers
+# torch
+# pickle-mixin
+Flask
+plotly
+matplotlib
+seaborn
+-e .
